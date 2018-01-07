@@ -23,9 +23,17 @@ Connecting Your Equipment
 
 * To prevent malfunction and equipment failure, always turn down the volume, and turn off all the units before making any connections.
 
-[TR-08_eng03_W-1_1.png]
+.. image:: _static/connections-rear.png
+   :width: 100 %
+   :alt: connections
+
 
 A. Micro USB (USBSYMBOL) port
+
+    .. image:: _static/micro-usb.png
+       :width: 300 px
+       :alt: micro-usb
+       :align: right
 
     Use a commercially available USB 2.0 cable (A-microB) to connect this port to your computer. It can be used to transfer USB MIDI and USB audio data. You must install the USB driver when connecting the TR-08 to your computer. Download the USB driver from the Roland website. For details, refer to Readme.htm which is included in the download.
     => https://www.roland.com/support/
@@ -47,6 +55,11 @@ D. OUTPUT jack
 E. MIX IN jack
 
     This is the audio input jack. Sound from the connected device is output from the OUTPUT jack and PHONES jack.
+
+.. image:: _static/midi-connections.png
+   :width: 200 px
+   :alt: midi-connections
+   :align: right
 
 F. MIDI connectors
 

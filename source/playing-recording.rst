@@ -2,6 +2,10 @@
 Playing/Recording a Rhythm Pattern
 ==================================
 
+.. image:: _static/overview-text.png
+   :width: 100 %
+   :alt: overview
+
 The recorded performance data is called a “rhythm pattern.”
 
 The TR-08 has 256 rhythm patterns, and two variations (A and B) for each rhythm pattern.
@@ -135,6 +139,10 @@ If one measure is divided into 16, one measure equals 16 steps.
    For each setting, the indication (scale) on the panel shows the number of steps in one beat.
    Press the [CLEAR] button to apply the PRE-SCALE value.
 
+.. image:: _static/pre-scale.png
+   :width: 100 %
+   :alt: pre-scale
+
 8. Hold down the [CLEAR] button and press a STEP NO [1]–[16] button to specify the number of steps.
    When you specify this, the same number of steps is automatically specified for A and B of the same basic rhythm (or intro/fill-in), regardless of the position of the variation switch at this time. If a 16-step rhythm pattern is written to A, and you then attempt to write a 12-step rhythm pattern to B, be aware that specifying this number of steps for B will also set A to 12 steps. In this case, you can return to the previous state by once again specifying 16 steps.
 
@@ -166,6 +174,10 @@ When you’re writing a pattern, these buttons operate as step number buttons, n
 **Writing a rhythm pattern that doesn’t fit the scale**
 
 Even if the desired rhythm pattern does not fit in a single pre-scale, you can write it as follows.
+
+.. image:: _static/prescale-rhythms.png
+   :width: 75 %
+   :alt: pre-scale rhythms
 
 When writing the pattern shown in this illustration, the first measure and the third measure can be
 written using pre-scale 3; however, since the second measure contains a triplet, it cannot be written

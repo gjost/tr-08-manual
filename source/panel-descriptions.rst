@@ -2,7 +2,9 @@
 Panel Descriptions
 ==================
 
-[TR-08_eng03_W-1_2.png]
+.. image:: _static/panel-descriptions.png
+   :width: 100 %
+   :alt: panel descriptions
 
 
 Display/Tempo section

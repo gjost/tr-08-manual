@@ -80,6 +80,22 @@ todo_include_todos = True
 
 # -- Options for HTML output ----------------------------------------------
 
+# The name for this set of Sphinx documents.
+# "<project> v<release> documentation" by default.
+html_title = u"Roland TR-08 Rhythm Composer Owner's Manual"
+
+# A shorter title for the navigation bar.  Default is the same as html_title.
+html_short_title = u"TR-08 Owner's Manual"
+
+# The name of an image file (relative to this directory) to place at the top
+# of the sidebar.
+html_logo = '_static/roland-tr-08.jpg'
+
+# The name of an image file (relative to this directory) to use as a favicon of
+# the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
+# pixels large.
+html_favicon = None
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
